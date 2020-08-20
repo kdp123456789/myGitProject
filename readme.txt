@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+廖雪峰git讲解 https://www.liaoxuefeng.com/wiki/896043488029600/897013573512192   
+GIT讲解  https://blog.csdn.net/qq_40323256/article/details/92384334?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param#%E4%B8%80%EF%BC%8Cgit%E4%B8%8B%E8%BD%BD%E5%8F%8A%E5%AE%89%E8%A3%85
